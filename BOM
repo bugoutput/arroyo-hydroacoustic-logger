@@ -1,0 +1,117 @@
+Bill of Materials for TSC Solo Hydro Logger, Arroyo Version. Links work as of 7/13/21
+
+1x Raspberry Pi 3 B+ $40 (Use Raspberry Pi A+ for lower power)
+
+https://www.amazon.com/ELEMENT-Element14-Raspberry-Pi-Motherboard/dp/B07P4LSDYV/ref=sr_1_3?dchild=1&keywords=raspberry+pi+3b+plus&qid=1620880262&sr=8-3 
+
+ 
+
+1x Soundblaster Play 3 Interface $20 
+ 
+
+https://www.amazon.com/Creative-Labs-70SB173000000-Sound-Blaster/dp/B06XBZ38ZJ/ref=sr_1_1_sspa?dchild=1&keywords=sound+blaster+play+3&qid=1620880301&sr=8-1-spons&psc=1&smid=A286IZ33TR5AUQ&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFTTEpXNU04Tzc1VkgmZW5jcnlwdGVkSWQ9QTA0MTk4MzMyQllDN1MzV085QjFBJmVuY3J5cHRlZEFkSWQ9QTA0MDc5NzFIREUwVkxZQUw1OUEmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl 
+
+ 
+
+1x DS3231 Realtime Clock Module $3 
+
+ 
+
+https://www.amazon.com/WINGONEER%C2%AE-DS3231-Precision-Arduino-Raspberry/dp/B07MR7T5D5/ref=sr_1_14?dchild=1&keywords=ds3231+module&qid=1620880419&sr=8-14 
+
+ 
+
+3x LM2596 Buck Converter Module $4 
+
+ 
+
+https://www.amazon.com/WMYCONGCONG-LM2596-Converter-Adjustable-Supply/dp/B01NCRYXEW/ref=sr_1_21?dchild=1&keywords=dc+dc+converter+adjustable&qid=1620880558&sr=8-21 
+
+ 
+
+1x 5V Arduino Nano Microcontroller $5 
+
+ 
+
+https://www.amazon.com/ELEGOO-Arduino-ATmega328P-Without-Compatible/dp/B0713XK923/ref=sr_1_1_sspa?dchild=1&keywords=arduino+nano&qid=1620880707&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyV0I0V0xQTUpDQlNMJmVuY3J5cHRlZElkPUEwMDUyMzAzNUJRQTBLRzk2MTNUJmVuY3J5cHRlZEFkSWQ9QTA2NjkyODkxN1hJSjdRU1JQNlpVJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ== 
+
+ 
+
+1x 5V Relay Module $2 
+
+ 
+
+https://www.amazon.com/ARCELI-KY-019-Channel-Module-arduino/dp/B07BVXT1ZK/ref=sr_1_11?dchild=1&keywords=relay+module&qid=1620880787&sr=8-11 
+
+ 
+
+1x Liquid Sensor Module $1 
+
+ 
+
+https://www.amazon.com/ALAMSCN-Sensor-Detection-Surface-Arduino/dp/B08HYTMHJ5/ref=sr_1_9?dchild=1&keywords=liquid+sensor+module&qid=1620880863&sr=8-9 
+
+ 
+
+1x MicroSD Extender $7 
+
+ 
+
+https://www.amazon.com/LANMU-Extension-MicroSDHC-Monoprice-Raspberry/dp/B07WWVBK8V/ref=sr_1_3?dchild=1&keywords=micro+sd+extender&qid=1620881626&sr=8-3 
+
+ 
+
+1x Samsung 256GB SD Card $35 
+
+ 
+
+https://www.amazon.com/Samsung-Electronics-microSDXC-Adapter-MB-ME256HA/dp/B0887P21Z2/ref=sr_1_3?crid=1BW4SG2C1YWYS&dchild=1&keywords=256gb+micro+sd+card&qid=1620881715&sprefix=256GB+%2Caps%2C233&sr=8-3 
+
+ 
+
+1x 3-pin Waterproof Connector $12 
+
+ 
+
+https://www.amazon.com/Aviation-Connector-Waterproof-Connectors-Industrial/dp/B087JZSLYV/ref=sr_1_25?dchild=1&keywords=3+pin+waterproof+connector&qid=1620881760&sr=8-25 
+
+ 
+
+1x 2-pin Waterproof Connector $12 
+
+ 
+
+https://www.amazon.com/Aviation-Connector-Waterproof-Connectors-Industrial/dp/B087K1N7YV/ref=sr_1_25?dchild=1&keywords=3%2Bpin%2Bwaterproof%2Bconnector&qid=1620881760&sr=8-25&th=1 
+ 
+
+½ x M2.5 Nylon Standoff Kit $6 
+
+ 
+
+https://www.amazon.com/Raspberry-Standoff-Standoffs-Building-Quadcopter/dp/B0788FR59P/ref=sr_1_9?dchild=1&keywords=nylon+standoff+kit&qid=1620881821&sr=8-9 
+
+ 
+
+1x 20Ah Battery$40 
+
+ 
+
+https://www.amazon.com/Battery-Replace-UB12200-EXP12200-Batteries/dp/B07TG7PJ41/ref=sr_1_3?dchild=1&keywords=20+Ah+agm+battery&qid=1620882010&sr=8-3 
+
+ 
+
+1x 8” x 6” ABS Enclosure $18 
+
+ 
+
+https://www.amazon.com/LMioEtool-Waterproof-Dustproof-Transparent-200x150x75mm/dp/B08GG2ZY5G/ref=sr_1_47?dchild=1&keywords=abs+enclosure&qid=1620882537&sr=8-47 
+
+ 
+
+1x 22” Rigid Toolbox $40 
+
+ 
+
+https://www.homedepot.com/p/RIDGID-22-in-Pro-Tool-Box-Black-221733/205440481?source=shoppingads&locale=en-US&mtc=Shopping-VF-F_D25T-G-D25T-25_9_PORTABLE_POWER-RIDGID-NA-NA-PLA_LIA-2231050-WF-SMARTSHOPPING_Q1Q2PLUSUP&cm_mmc=Shopping-VF-F_D25T-G-D25T-25_9_PORTABLE_POWER-RIDGID-NA-NA-PLA_LIA-2231050-WF-SMARTSHOPPING_Q1Q2PLUSUP-71700000083187724-58700007049582709-92700063451361524&gclid=EAIaIQobChMIn9D0vfLF8AIVGfbjBx2jRwNyEAQYASABEgIJXPD_BwE&gclsrc=aw.ds 
+
+ 
