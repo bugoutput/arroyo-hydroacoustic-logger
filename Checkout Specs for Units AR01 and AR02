@@ -1,0 +1,10 @@
+Serial Number								AR01	AR02
+LVD on (VDC)								11.2	11.2
+LVD off (VDC)								11.5	11.5
+Buck Conv. Output (VDC)			4.97	4.99
+Standby Current @12VDC (mA)	61		61
+Logging Current @12VDC (mA)	400		400
+RTC Sync										Pass	Pass
+Audio Test									Pass	Pass
+OS Reflash									Pass	Pass
+Blocking Cap Value (uF)			1			1
